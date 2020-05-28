@@ -1,0 +1,38 @@
+body {
+  background-color: darkblue;
+}
+#header {
+  height: 100px;
+  background-color: red;
+  border-radius: 45px;
+  margin-bottom: 15px;
+}
+
+#body-left {
+  width: 22%;
+  height: 315px;
+  background-color: teal;
+  border-radius: 45px;
+  display: inline-block;
+  margin-right: 25px;
+  vertical-align: top;
+}
+
+#body-right {
+  width: 76%;
+  height: 600px;
+  background-color: blue;
+  border-radius: 45px;
+  display: inline-block;
+}
+
+#footer {
+  height: 125px;
+  background-color: grey;
+  border-radius: 45px;
+  margin-top: 15px;
+}
+
+body {
+  background-color: green;
+}
